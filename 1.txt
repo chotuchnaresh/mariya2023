@@ -1,1 +1,2 @@
 this is the code develeped by the mariya for the mobile phones catogry
+im debugging this code for some  error prevention
